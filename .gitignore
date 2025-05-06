@@ -1,1 +1,5 @@
 token.txt
+.ipynb_checkpoints/*
+.git/*
+model-data-prompt/data_by_copilot.dzn
+model-data-prompt/data_by_deepseek.dzn
