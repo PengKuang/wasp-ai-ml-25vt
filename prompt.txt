@@ -1,0 +1,16 @@
+ Alice, Bob, Chloe, Diana, Emma, Fiona, Grace, 
+ Harley, Ivy and Jade plan to meet up for an hour 
+ sometime between 8 am and 6 pm.
+
+ Alice is busy 8 to 10, 11 to 13, 14 to 16, and 17 to 18.
+ Bob is busy 8 to 9, 10 to 11, 12 to 13, 14 to 16 and 17 to 18.
+ Chloe is busy 9 to 13 and 14 to 15.
+ Diana is busy 8 to 9, 10 to 13, 15 to 16 and 17 to 18.
+ Emma is busy 8 to 11, 14 to 15, and 17 to 18.
+ Fiona is busy  8 to 10, 11 to 13, 15 to 16, and 17 to 18.
+ Grace is busy 8 to 11, 12 to 13, 14 to 15 and 17 to 18.
+ Harley is busy 8 to 13, 14 to 16 and 17 to 18.
+ Ivy is busy 11 to 13, 14 to 15 and 17 to 18.
+ Jade is busy 8 to 13.
+
+ When should they meet?
